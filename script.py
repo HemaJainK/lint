@@ -1,7 +1,7 @@
 def greet(name):
-    print(f"Hello, {name}!")  # This line now has two spaces before the comment
+    print(f"Hello, {name}!")
 
 
 greet("John")
 
-
+# <-- Ensure there's a single blank line here
